@@ -1240,3 +1240,416 @@
 2022-11-10 20:51:25 [main] INFO  MediaProjectionScreen:59 - Media/MediaProjection
 2022-11-10 20:51:25 [main] INFO  RunnerClass:19 - driver is stopped
 2022-11-10 20:51:25 [main] INFO  RunnerClass:70 - Appium server stopped
+2022-11-12 15:41:41 [main] INFO  RunnerClass:41 - Appium Server started
+2022-11-12 15:41:53 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:41:54 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:41:56 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:41:58 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:42:01 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:42:02 [main] INFO  hide_showAnimationScreen:42 - NATIVE_APP
+2022-11-12 15:42:04 [main] INFO  hide_showAnimationScreen:47 - NATIVE_APP
+2022-11-12 15:42:05 [main] INFO  hide_showAnimationScreen:52 - NATIVE_APP
+2022-11-12 15:42:07 [main] INFO  hide_showAnimationScreen:55 - NATIVE_APP
+2022-11-12 15:42:08 [main] INFO  hide_showAnimationScreen:60 - NATIVE_APP
+2022-11-12 15:42:09 [main] INFO  hide_showAnimationScreen:63 - NATIVE_APP
+2022-11-12 15:42:10 [main] INFO  hide_showAnimationScreen:68 - NATIVE_APP
+2022-11-12 15:42:11 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:42:19 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:42:19 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:42:21 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:42:23 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:42:25 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:42:26 [main] INFO  hide_showAnimationScreen:42 - NATIVE_APP
+2022-11-12 15:42:28 [main] INFO  ViewFlipScreen:29 - NATIVE_APP
+2022-11-12 15:42:31 [main] INFO  ViewFlipScreen:35 - NATIVE_APP
+2022-11-12 15:42:33 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:42:40 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:42:40 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:42:42 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:42:43 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:42:46 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:42:47 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 15:42:49 [main] INFO  display_options:37 - NATIVE_APP
+2022-11-12 15:42:51 [main] INFO  display_options:42 - NATIVE_APP
+2022-11-12 15:42:53 [main] INFO  display_options:47 - NATIVE_APP
+2022-11-12 15:42:54 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:43:02 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:43:02 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:43:04 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:43:06 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:43:08 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:43:09 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 15:43:11 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 15:43:14 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 15:43:15 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 15:43:17 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 15:43:18 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 15:43:19 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:43:26 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:43:26 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:43:29 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:43:30 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:43:33 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:43:34 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 15:43:36 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 15:43:38 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 15:43:40 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 15:43:41 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 15:43:42 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 15:43:43 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:43:50 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:43:50 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:43:53 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:43:54 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:43:56 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:43:57 [main] INFO  MediaPlayerScreen:33 - NATIVE_APP
+2022-11-12 15:43:59 [main] INFO  MediaPlayerScreen:38 - NATIVE_APP
+2022-11-12 15:44:02 [main] INFO  MediaPlayerScreen:43 - NATIVE_APP
+2022-11-12 15:44:03 [main] INFO  MediaPlayerScreen:49 - Media/MediaPlayer
+2022-11-12 15:44:03 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:44:10 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:44:10 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:44:13 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:44:14 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:44:16 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:44:17 [main] INFO  MediaPlayerScreen:33 - NATIVE_APP
+2022-11-12 15:44:19 [main] INFO  MediaProjectionScreen:38 - NATIVE_APP
+2022-11-12 15:44:21 [main] INFO  MediaProjectionScreen:43 - NATIVE_APP
+2022-11-12 15:44:22 [main] INFO  MediaProjectionScreen:46 - NATIVE_APP
+2022-11-12 15:44:24 [main] INFO  MediaProjectionScreen:51 - NATIVE_APP
+2022-11-12 15:44:29 [main] INFO  MediaProjectionScreen:59 - Media/MediaProjection
+2022-11-12 15:44:29 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:44:29 [main] INFO  RunnerClass:71 - Appium server stopped
+2022-11-12 15:51:22 [main] INFO  RunnerClass:42 - Appium Server started
+2022-11-12 15:51:29 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:51:29 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:51:32 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:51:33 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:51:36 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:51:37 [main] INFO  hide_showAnimationScreen:42 - NATIVE_APP
+2022-11-12 15:51:39 [main] INFO  hide_showAnimationScreen:47 - NATIVE_APP
+2022-11-12 15:51:41 [main] INFO  hide_showAnimationScreen:52 - NATIVE_APP
+2022-11-12 15:51:42 [main] INFO  hide_showAnimationScreen:55 - NATIVE_APP
+2022-11-12 15:51:43 [main] INFO  hide_showAnimationScreen:60 - NATIVE_APP
+2022-11-12 15:51:44 [main] INFO  hide_showAnimationScreen:63 - NATIVE_APP
+2022-11-12 15:51:45 [main] INFO  hide_showAnimationScreen:68 - NATIVE_APP
+2022-11-12 15:51:46 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:51:53 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:51:53 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:51:56 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:51:57 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:51:59 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:52:01 [main] INFO  hide_showAnimationScreen:42 - NATIVE_APP
+2022-11-12 15:52:03 [main] INFO  ViewFlipScreen:29 - NATIVE_APP
+2022-11-12 15:52:06 [main] INFO  ViewFlipScreen:35 - NATIVE_APP
+2022-11-12 15:52:07 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:53:09 [main] INFO  RunnerClass:42 - Appium Server started
+2022-11-12 15:53:16 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:53:17 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:53:19 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:53:20 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:53:24 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:53:25 [main] INFO  hide_showAnimationScreen:42 - NATIVE_APP
+2022-11-12 15:53:27 [main] INFO  hide_showAnimationScreen:47 - NATIVE_APP
+2022-11-12 15:53:29 [main] INFO  hide_showAnimationScreen:52 - NATIVE_APP
+2022-11-12 15:53:30 [main] INFO  hide_showAnimationScreen:55 - NATIVE_APP
+2022-11-12 15:53:31 [main] INFO  hide_showAnimationScreen:60 - NATIVE_APP
+2022-11-12 15:53:32 [main] INFO  hide_showAnimationScreen:63 - NATIVE_APP
+2022-11-12 15:53:34 [main] INFO  hide_showAnimationScreen:68 - NATIVE_APP
+2022-11-12 15:53:35 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:53:42 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:53:42 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:53:45 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:53:47 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:53:50 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:53:51 [main] INFO  hide_showAnimationScreen:42 - NATIVE_APP
+2022-11-12 15:53:54 [main] INFO  ViewFlipScreen:29 - NATIVE_APP
+2022-11-12 15:53:57 [main] INFO  ViewFlipScreen:35 - NATIVE_APP
+2022-11-12 15:53:59 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:54:06 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:54:06 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:54:09 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:54:10 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:54:14 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:54:15 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 15:54:17 [main] INFO  display_options:37 - NATIVE_APP
+2022-11-12 15:54:19 [main] INFO  display_options:42 - NATIVE_APP
+2022-11-12 15:54:21 [main] INFO  display_options:47 - NATIVE_APP
+2022-11-12 15:54:23 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:54:30 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:54:30 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:54:33 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:54:34 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:54:37 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:54:38 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 15:54:40 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 15:54:43 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 15:54:45 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 15:54:46 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 15:54:47 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 15:54:48 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:54:55 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:54:55 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:54:57 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:54:58 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:55:02 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:55:03 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 15:55:05 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 15:55:07 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 15:55:09 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 15:55:10 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 15:55:11 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 15:55:12 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:55:19 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:55:19 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:55:22 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:55:23 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:55:26 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:55:27 [main] INFO  MediaPlayerScreen:33 - NATIVE_APP
+2022-11-12 15:55:29 [main] INFO  MediaPlayerScreen:38 - NATIVE_APP
+2022-11-12 15:55:31 [main] INFO  MediaPlayerScreen:43 - NATIVE_APP
+2022-11-12 15:55:32 [main] INFO  MediaPlayerScreen:49 - Media/MediaPlayer
+2022-11-12 15:55:32 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:55:39 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:55:39 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:55:42 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:55:43 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:55:45 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:55:46 [main] INFO  MediaPlayerScreen:33 - NATIVE_APP
+2022-11-12 15:55:48 [main] INFO  MediaProjectionScreen:38 - NATIVE_APP
+2022-11-12 15:55:50 [main] INFO  MediaProjectionScreen:43 - NATIVE_APP
+2022-11-12 15:55:51 [main] INFO  MediaProjectionScreen:46 - NATIVE_APP
+2022-11-12 15:55:53 [main] INFO  MediaProjectionScreen:51 - NATIVE_APP
+2022-11-12 15:55:57 [main] INFO  MediaProjectionScreen:59 - Media/MediaProjection
+2022-11-12 15:55:57 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:55:58 [main] INFO  RunnerClass:72 - Appium server stopped
+2022-11-12 15:56:38 [main] INFO  RunnerClass:42 - Appium Server started
+2022-11-12 15:56:46 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:56:47 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:56:49 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:56:50 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:56:53 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:56:54 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 15:56:56 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 15:56:58 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 15:57:00 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 15:57:02 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 15:57:03 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 15:57:04 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:57:11 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:57:11 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:57:14 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:57:15 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:57:17 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:57:19 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 15:57:21 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 15:57:23 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 15:57:25 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 15:57:26 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 15:57:27 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 15:57:28 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:57:36 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:57:36 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:57:38 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:57:39 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:57:42 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:57:43 [main] INFO  MediaPlayerScreen:33 - NATIVE_APP
+2022-11-12 15:57:45 [main] INFO  MediaPlayerScreen:38 - NATIVE_APP
+2022-11-12 15:57:47 [main] INFO  MediaPlayerScreen:43 - NATIVE_APP
+2022-11-12 15:57:48 [main] INFO  MediaPlayerScreen:49 - Media/MediaPlayer
+2022-11-12 15:57:48 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:57:55 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:57:55 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:57:58 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:57:59 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:58:02 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:58:03 [main] INFO  MediaPlayerScreen:33 - NATIVE_APP
+2022-11-12 15:58:05 [main] INFO  MediaProjectionScreen:38 - NATIVE_APP
+2022-11-12 15:58:07 [main] INFO  MediaProjectionScreen:43 - NATIVE_APP
+2022-11-12 15:58:08 [main] INFO  MediaProjectionScreen:46 - NATIVE_APP
+2022-11-12 15:58:10 [main] INFO  MediaProjectionScreen:51 - NATIVE_APP
+2022-11-12 15:58:11 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 15:59:34 [main] INFO  RunnerClass:42 - Appium Server started
+2022-11-12 15:59:41 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 15:59:41 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 15:59:43 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 15:59:45 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 15:59:49 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 15:59:50 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 15:59:52 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 15:59:54 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 15:59:57 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 15:59:58 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 15:59:59 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 16:00:00 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 16:00:07 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 16:00:07 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 16:00:09 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 16:00:11 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 16:00:15 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 16:00:16 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 16:00:18 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 16:00:21 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 16:00:23 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 16:00:24 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 16:00:25 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 16:00:27 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 16:00:33 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 16:00:33 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 16:00:36 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 16:00:38 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 16:00:41 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 16:00:42 [main] INFO  MediaPlayerScreen:33 - NATIVE_APP
+2022-11-12 16:00:45 [main] INFO  MediaPlayerScreen:38 - NATIVE_APP
+2022-11-12 16:00:47 [main] INFO  MediaPlayerScreen:43 - NATIVE_APP
+2022-11-12 16:00:48 [main] INFO  MediaPlayerScreen:49 - Media/MediaPlayer
+2022-11-12 16:00:48 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 16:00:55 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 16:00:55 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 16:00:58 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 16:00:59 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 16:01:03 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 16:01:04 [main] INFO  MediaPlayerScreen:33 - NATIVE_APP
+2022-11-12 16:01:07 [main] INFO  MediaProjectionScreen:38 - NATIVE_APP
+2022-11-12 16:01:09 [main] INFO  MediaProjectionScreen:43 - NATIVE_APP
+2022-11-12 16:01:10 [main] INFO  MediaProjectionScreen:46 - NATIVE_APP
+2022-11-12 16:01:12 [main] INFO  MediaProjectionScreen:51 - NATIVE_APP
+2022-11-12 16:01:13 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 16:07:29 [main] INFO  RunnerClass:43 - Appium Server started
+2022-11-12 16:07:37 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 16:07:37 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 16:07:39 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 16:07:40 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 16:07:44 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 16:07:45 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 16:07:48 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 16:07:50 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 16:07:52 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 16:07:53 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 16:07:54 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 16:07:55 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 16:08:02 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 16:08:02 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 16:08:05 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 16:08:07 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 16:08:10 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 16:08:11 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 16:08:13 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 16:08:16 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 16:08:18 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 16:08:19 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 16:08:20 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 16:08:21 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 16:09:49 [main] INFO  RunnerClass:42 - Appium Server started
+2022-11-12 16:09:57 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 16:09:58 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 16:10:00 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 16:10:02 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 16:10:04 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 16:10:05 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 16:10:07 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 16:10:09 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 16:10:11 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 16:10:12 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 16:10:14 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 16:10:15 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 16:10:22 [main] INFO  RunnerClass:14 - device is initialized
+2022-11-12 16:10:22 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 16:10:24 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 16:10:26 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 16:10:29 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 16:10:30 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 16:10:32 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 16:10:34 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 16:10:36 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 16:10:37 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 16:10:38 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 16:10:39 [main] INFO  RunnerClass:19 - driver is stopped
+2022-11-12 16:12:26 [main] INFO  RunnerClass:42 - Appium Server started
+2022-11-12 16:12:33 [main] INFO  RunnerClass:16 - device is initialized
+2022-11-12 16:12:34 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 16:12:36 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 16:12:37 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 16:12:40 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 16:12:41 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 16:12:43 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 16:12:46 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 16:12:48 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 16:12:49 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 16:12:50 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 16:12:51 [main] INFO  RunnerClass:24 - driver is stopped
+2022-11-12 16:12:58 [main] INFO  RunnerClass:16 - device is initialized
+2022-11-12 16:12:58 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 16:13:01 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 16:13:02 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 16:13:05 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 16:13:06 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 16:13:08 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 16:13:11 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 16:13:13 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 16:13:14 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 16:13:15 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 16:13:16 [main] INFO  RunnerClass:24 - driver is stopped
+2022-11-12 16:13:23 [main] INFO  RunnerClass:16 - device is initialized
+2022-11-12 16:13:23 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 16:13:26 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 16:13:28 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 16:13:31 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 16:13:32 [main] INFO  MediaPlayerScreen:33 - NATIVE_APP
+2022-11-12 16:13:35 [main] INFO  MediaPlayerScreen:38 - NATIVE_APP
+2022-11-12 16:13:37 [main] INFO  MediaPlayerScreen:43 - NATIVE_APP
+2022-11-12 16:13:38 [main] INFO  MediaPlayerScreen:49 - Media/MediaPlayer
+2022-11-12 16:13:38 [main] INFO  RunnerClass:24 - driver is stopped
+2022-11-12 16:13:45 [main] INFO  RunnerClass:16 - device is initialized
+2022-11-12 16:13:45 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 16:13:48 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 16:13:49 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 16:13:53 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 16:13:54 [main] INFO  MediaPlayerScreen:33 - NATIVE_APP
+2022-11-12 16:13:56 [main] INFO  MediaProjectionScreen:38 - NATIVE_APP
+2022-11-12 16:13:57 [main] INFO  RunnerClass:24 - driver is stopped
+2022-11-12 16:13:57 [main] INFO  RunnerClass:71 - Appium server stopped
+2022-11-12 16:15:02 [main] INFO  RunnerClass:42 - Appium Server started
+2022-11-12 16:15:10 [main] INFO  RunnerClass:16 - device is initialized
+2022-11-12 16:15:10 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 16:15:12 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 16:15:14 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 16:15:17 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 16:15:18 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 16:15:21 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 16:15:23 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 16:15:25 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 16:15:26 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 16:15:27 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 16:15:28 [main] INFO  RunnerClass:24 - driver is stopped
+2022-11-12 16:15:36 [main] INFO  RunnerClass:16 - device is initialized
+2022-11-12 16:15:36 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 16:15:38 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 16:15:39 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 16:15:43 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 16:15:44 [main] INFO  display_options:32 - NATIVE_APP
+2022-11-12 16:15:46 [main] INFO  SearchScreen:35 - NATIVE_APP
+2022-11-12 16:15:48 [main] INFO  SearchScreen:40 - NATIVE_APP
+2022-11-12 16:15:50 [main] INFO  SearchScreen:45 - NATIVE_APP
+2022-11-12 16:15:51 [main] INFO  SearchScreen:48 - NATIVE_APP
+2022-11-12 16:15:52 [main] INFO  SearchScreen:53 - NATIVE_APP
+2022-11-12 16:15:53 [main] INFO  RunnerClass:24 - driver is stopped
+2022-11-12 16:16:01 [main] INFO  RunnerClass:16 - device is initialized
+2022-11-12 16:16:01 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 16:16:04 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 16:16:06 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 16:16:08 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 16:16:09 [main] INFO  MediaPlayerScreen:33 - NATIVE_APP
+2022-11-12 16:16:12 [main] INFO  MediaPlayerScreen:38 - NATIVE_APP
+2022-11-12 16:16:14 [main] INFO  MediaPlayerScreen:43 - NATIVE_APP
+2022-11-12 16:16:15 [main] INFO  MediaPlayerScreen:49 - Media/MediaPlayer
+2022-11-12 16:16:15 [main] INFO  RunnerClass:24 - driver is stopped
+2022-11-12 16:16:22 [main] INFO  RunnerClass:16 - device is initialized
+2022-11-12 16:16:22 [main] INFO  StartScreen:33 - NATIVE_APP
+2022-11-12 16:16:25 [main] INFO  StartScreen:36 - NATIVE_APP
+2022-11-12 16:16:26 [main] INFO  StartScreen:39 - NATIVE_APP
+2022-11-12 16:16:29 [main] INFO  StartScreen:43 - NATIVE_APP
+2022-11-12 16:16:30 [main] INFO  MediaPlayerScreen:33 - NATIVE_APP
+2022-11-12 16:16:32 [main] INFO  MediaProjectionScreen:38 - NATIVE_APP
+2022-11-12 16:16:32 [main] INFO  RunnerClass:24 - driver is stopped
+2022-11-12 16:16:33 [main] INFO  RunnerClass:71 - Appium server stopped

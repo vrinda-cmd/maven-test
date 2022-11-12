@@ -1,12 +1,12 @@
 package Runner;
 
 import java.io.File;
+import Utilities.Screenshots;
 import java.io.IOException;
 import java.lang.reflect.Method;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.core.config.Configurator;
-import org.junit.runner.RunWith;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
@@ -16,13 +16,15 @@ import com.relevantcodes.extentreports.ExtentReports;
 import com.relevantcodes.extentreports.ExtentTest;
 import com.relevantcodes.extentreports.LogStatus;
 import Utilities.AppiumServer;
+import Utilities.Capabilities;
 import cucumber.api.CucumberOptions;
 import cucumber.api.testng.AbstractTestNGCucumberTests;
 
 @CucumberOptions(
-
+		plugin= {"pretty"},
 		features={"./src/test/java/Features/Animation.feature","./src/test/java/Features/App.feature","./src/test/java/Features/Media.feature"},
-		glue="StepDefinitions"
+		glue="StepDefinitions",
+		tags= {"@RegressionTest,@SmokeTest"}
 		)
 public class RunnerClass extends AbstractTestNGCucumberTests{
 	public static ExtentReports extent;
@@ -55,7 +57,6 @@ public class RunnerClass extends AbstractTestNGCucumberTests{
 		} else {
 			if (result.getStatus() == ITestResult.SUCCESS) {
 				extentTest.log(LogStatus.PASS, "Test case passed successfully");
-
 			}
 		}
 	}
