@@ -7,6 +7,7 @@ import java.lang.reflect.Method;
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.core.config.Configurator;
+import org.junit.runner.RunWith;
 import org.testng.ITestResult;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.AfterSuite;
@@ -22,7 +23,7 @@ import cucumber.api.testng.AbstractTestNGCucumberTests;
 
 @CucumberOptions(
 		plugin= {"pretty"},
-		features={"./src/test/java/Features/Animation.feature","./src/test/java/Features/App.feature","./src/test/java/Features/Media.feature"},
+		features={"./src/test/java/Features/Animation.feature","./src/test/java/Features/App.feature","./src/test/java/Features/Media.feature","./src/test/java/Features/Text.feature"},
 		glue="StepDefinitions",
 		tags= {"@RegressionTest,@SmokeTest"}
 		)

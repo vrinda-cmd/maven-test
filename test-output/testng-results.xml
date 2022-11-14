@@ -1,24 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<testng-results ignored="0" total="2" passed="1" failed="1" skipped="0">
+<testng-results ignored="0" total="4" passed="4" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-11-12T10:45:02Z" name="Default suite" finished-at="2022-11-12T10:46:33Z" duration-ms="90738">
+  <suite started-at="2022-11-12T12:02:01Z" name="Default suite" finished-at="2022-11-12T12:05:06Z" duration-ms="185317">
     <groups>
       <group name="cucumber">
         <method signature="AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.RunnerClass@2c22a348]" name="feature" class="cucumber.api.testng.AbstractTestNGCucumberTests"/>
       </group> <!-- cucumber -->
     </groups>
-    <test started-at="2022-11-12T10:45:02Z" name="Default test" finished-at="2022-11-12T10:46:33Z" duration-ms="90738">
+    <test started-at="2022-11-12T12:02:01Z" name="Default test" finished-at="2022-11-12T12:05:06Z" duration-ms="185317">
       <class name="Runner.RunnerClass">
-        <test-method is-config="true" signature="setup()[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T10:44:59Z" name="setup" finished-at="2022-11-12T10:45:02Z" duration-ms="3128" status="PASS">
+        <test-method is-config="true" signature="setup()[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:01:57Z" name="setup" finished-at="2022-11-12T12:02:01Z" duration-ms="3362" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setup -->
-        <test-method is-config="true" signature="setUpClass()[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T10:45:02Z" name="setUpClass" finished-at="2022-11-12T10:45:02Z" duration-ms="152" status="PASS">
+        <test-method is-config="true" signature="setUpClass()[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:02:01Z" name="setUpClass" finished-at="2022-11-12T12:02:01Z" duration-ms="150" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- setUpClass -->
-        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T10:45:02Z" name="startTest" finished-at="2022-11-12T10:45:02Z" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:02:01Z" name="startTest" finished-at="2022-11-12T12:02:01Z" duration-ms="2" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -29,18 +29,22 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startTest -->
-        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T10:45:02Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2022-11-12T10:45:54Z" duration-ms="51648" status="PASS">
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:02:01Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2022-11-12T12:02:51Z" duration-ms="50500" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[To test the features of the app button present in the app]]>
+                <![CDATA[To test the features of the animation present in the app]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- feature -->
-        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T10:45:54Z" name="atestCaseResult" finished-at="2022-11-12T10:45:54Z" duration-ms="2" status="PASS">
+        <test-method is-config="true" signature="endTest()[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:02:51Z" name="endTest" finished-at="2022-11-12T12:02:51Z" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:02:51Z" name="atestCaseResult" finished-at="2022-11-12T12:02:51Z" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -51,11 +55,7 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- atestCaseResult -->
-        <test-method is-config="true" signature="endTest()[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T10:45:54Z" name="endTest" finished-at="2022-11-12T10:45:54Z" duration-ms="4" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- endTest -->
-        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T10:45:54Z" name="startTest" finished-at="2022-11-12T10:45:54Z" duration-ms="1" status="PASS">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:02:51Z" name="startTest" finished-at="2022-11-12T12:02:51Z" duration-ms="1" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -66,7 +66,44 @@
           <reporter-output>
           </reporter-output>
         </test-method> <!-- startTest -->
-        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T10:45:54Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2022-11-12T10:46:33Z" duration-ms="38846" status="FAIL">
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:02:51Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2022-11-12T12:04:02Z" duration-ms="70664" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[To test the features of the app button present in the app]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:04:02Z" name="atestCaseResult" finished-at="2022-11-12T12:04:02Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=feature status=SUCCESS method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.RunnerClass@2c22a348] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestCaseResult -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:04:02Z" name="endTest" finished-at="2022-11-12T12:04:02Z" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:04:02Z" name="startTest" finished-at="2022-11-12T12:04:02Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cucumber.api.testng.AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:04:02Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2022-11-12T12:04:47Z" duration-ms="44373" status="PASS">
           <params>
             <param index="0">
               <value>
@@ -74,183 +111,66 @@
               </value>
             </param>
           </params>
-          <exception class="cucumber.runtime.CucumberException">
-            <message>
-              <![CDATA[org.openqa.selenium.WebDriverException: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Must provide a selector when finding elements
-Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
-System info: host: 'IN-GKTZ9K3', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
-Driver info: io.appium.java_client.android.AndroidDriver
-Capabilities {app: .\app\API Demos for Android..., appActivity: com.touchboarder.androidapi..., appPackage: com.touchboarder.android.ap..., databaseEnabled: false, desired: {app: .\app\API Demos for Android..., appActivity: com.touchboarder.androidapi..., appPackage: com.touchboarder.android.ap..., deviceName: Android, isHeadless: true, platformName: android, platformVersion: 11}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, isHeadless: true, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 136, takesScreenshot: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
-Session ID: 6528ac37-1dca-43aa-bd46-b23f3bd7a809
-*** Element info: {Using=id, value=}]]>
-            </message>
-            <full-stacktrace>
-              <![CDATA[cucumber.runtime.CucumberException: org.openqa.selenium.WebDriverException: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Must provide a selector when finding elements
-Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
-System info: host: 'IN-GKTZ9K3', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
-Driver info: io.appium.java_client.android.AndroidDriver
-Capabilities {app: .\app\API Demos for Android..., appActivity: com.touchboarder.androidapi..., appPackage: com.touchboarder.android.ap..., databaseEnabled: false, desired: {app: .\app\API Demos for Android..., appActivity: com.touchboarder.androidapi..., appPackage: com.touchboarder.android.ap..., deviceName: Android, isHeadless: true, platformName: android, platformVersion: 11}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, isHeadless: true, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 136, takesScreenshot: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
-Session ID: 6528ac37-1dca-43aa-bd46-b23f3bd7a809
-*** Element info: {Using=id, value=}
-at cucumber.api.testng.TestNGCucumberRunner.runCucumber(TestNGCucumberRunner.java:69)
-at cucumber.api.testng.AbstractTestNGCucumberTests.feature(AbstractTestNGCucumberTests.java:21)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-Caused by: org.openqa.selenium.WebDriverException: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Must provide a selector when finding elements
-Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
-System info: host: 'IN-GKTZ9K3', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
-Driver info: io.appium.java_client.android.AndroidDriver
-Capabilities {app: .\app\API Demos for Android..., appActivity: com.touchboarder.androidapi..., appPackage: com.touchboarder.android.ap..., databaseEnabled: false, desired: {app: .\app\API Demos for Android..., appActivity: com.touchboarder.androidapi..., appPackage: com.touchboarder.android.ap..., deviceName: Android, isHeadless: true, platformName: android, platformVersion: 11}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, isHeadless: true, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 136, takesScreenshot: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
-Session ID: 6528ac37-1dca-43aa-bd46-b23f3bd7a809
-*** Element info: {Using=id, value=}
-at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:192)
-at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
-at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
-at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:60)
-at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.click(<generated>)
-at Screens.MediaProjectionScreen.mediaprojectiobtnclick(MediaProjectionScreen.java:39)
-at StepDefinitions.Media.user_click_on_media_projection_button(Media.java:43)
-at ✽.When User click on Media projection button(./src/test/java/Features/Media.feature:13)
-Caused by: org.openqa.selenium.WebDriverException: An unknown server-side error occurred while processing the command. Original error: Must provide a selector when finding elements
-Build info: version: '3.141.5', revision: 'd54ebd709a', time: '2018-11-06T11:42:16'
-System info: host: 'IN-GKTZ9K3', ip: '192.168.1.36', os.name: 'Windows 10', os.arch: 'amd64', os.version: '10.0', java.version: '11.0.5'
-Driver info: io.appium.java_client.android.AndroidDriver
-Capabilities {app: .\app\API Demos for Android..., appActivity: com.touchboarder.androidapi..., appPackage: com.touchboarder.android.ap..., databaseEnabled: false, desired: {app: .\app\API Demos for Android..., appActivity: com.touchboarder.androidapi..., appPackage: com.touchboarder.android.ap..., deviceName: Android, isHeadless: true, platformName: android, platformVersion: 11}, deviceApiLevel: 30, deviceManufacturer: unknown, deviceModel: Android SDK built for x86, deviceName: emulator-5554, deviceScreenDensity: 440, deviceScreenSize: 1080x2340, deviceUDID: emulator-5554, isHeadless: true, javascriptEnabled: true, locationContextEnabled: false, networkConnectionEnabled: true, pixelRatio: 2.75, platform: LINUX, platformName: Android, platformVersion: 11, statBarHeight: 136, takesScreenshot: true, viewportRect: {height: 1936, left: 0, top: 136, width: 1080}, warnings: {}, webStorageEnabled: false}
-Session ID: 6528ac37-1dca-43aa-bd46-b23f3bd7a809
-*** Element info: {Using=id, value=}
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance0(Native Method)
-at java.base/jdk.internal.reflect.NativeConstructorAccessorImpl.newInstance(NativeConstructorAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingConstructorAccessorImpl.newInstance(DelegatingConstructorAccessorImpl.java:45)
-at java.base/java.lang.reflect.Constructor.newInstance(Constructor.java:490)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.createException(W3CHttpResponseCodec.java:187)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:122)
-at org.openqa.selenium.remote.http.W3CHttpResponseCodec.decode(W3CHttpResponseCodec.java:49)
-at org.openqa.selenium.remote.HttpCommandExecutor.execute(HttpCommandExecutor.java:158)
-at io.appium.java_client.remote.AppiumCommandExecutor.execute(AppiumCommandExecutor.java:231)
-at org.openqa.selenium.remote.RemoteWebDriver.execute(RemoteWebDriver.java:552)
-at io.appium.java_client.DefaultGenericMobileDriver.execute(DefaultGenericMobileDriver.java:42)
-at io.appium.java_client.AppiumDriver.execute(AppiumDriver.java:1)
-at io.appium.java_client.android.AndroidDriver.execute(AndroidDriver.java:1)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:323)
-at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:62)
-at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
-at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
-at org.openqa.selenium.remote.RemoteWebDriver.findElementById(RemoteWebDriver.java:372)
-at io.appium.java_client.DefaultGenericMobileDriver.findElementById(DefaultGenericMobileDriver.java:70)
-at io.appium.java_client.AppiumDriver.findElementById(AppiumDriver.java:1)
-at io.appium.java_client.android.AndroidDriver.findElementById(AndroidDriver.java:1)
-at org.openqa.selenium.By$ById.findElement(By.java:188)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
-at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
-at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
-at io.appium.java_client.pagefactory.bys.ContentMappedBy.findElement(ContentMappedBy.java:50)
-at org.openqa.selenium.remote.RemoteWebDriver.findElement(RemoteWebDriver.java:315)
-at io.appium.java_client.DefaultGenericMobileDriver.findElement(DefaultGenericMobileDriver.java:58)
-at io.appium.java_client.AppiumDriver.findElement(AppiumDriver.java:1)
-at io.appium.java_client.android.AndroidDriver.findElement(AndroidDriver.java:1)
-at io.appium.java_client.pagefactory.AppiumElementLocator.lambda$0(AppiumElementLocator.java:120)
-at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:172)
-at io.appium.java_client.pagefactory.AppiumElementLocator$WaitingFunction.apply(AppiumElementLocator.java:1)
-at org.openqa.selenium.support.ui.FluentWait.until(FluentWait.java:249)
-at io.appium.java_client.pagefactory.AppiumElementLocator.waitFor(AppiumElementLocator.java:99)
-at io.appium.java_client.pagefactory.AppiumElementLocator.findElement(AppiumElementLocator.java:119)
-at io.appium.java_client.pagefactory.interceptors.InterceptorOfASingleElement.intercept(InterceptorOfASingleElement.java:60)
-at io.appium.java_client.android.AndroidElement$$EnhancerByCGLIB$$b598166c.click(<generated>)
-at Screens.MediaProjectionScreen.mediaprojectiobtnclick(MediaProjectionScreen.java:39)
-at StepDefinitions.Media.user_click_on_media_projection_button(Media.java:43)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-at cucumber.runtime.Utils$1.call(Utils.java:40)
-at cucumber.runtime.Timeout.timeout(Timeout.java:16)
-at cucumber.runtime.Utils.invoke(Utils.java:34)
-at cucumber.runtime.java.JavaStepDefinition.execute(JavaStepDefinition.java:38)
-at cucumber.runtime.StepDefinitionMatch.runStep(StepDefinitionMatch.java:37)
-at cucumber.runtime.Runtime.runStep(Runtime.java:300)
-at cucumber.runtime.model.StepContainer.runStep(StepContainer.java:44)
-at cucumber.runtime.model.StepContainer.runSteps(StepContainer.java:39)
-at cucumber.runtime.model.CucumberScenario.run(CucumberScenario.java:44)
-at cucumber.runtime.model.CucumberFeature.run(CucumberFeature.java:165)
-at cucumber.api.testng.TestNGCucumberRunner.runCucumber(TestNGCucumberRunner.java:63)
-at cucumber.api.testng.AbstractTestNGCucumberTests.feature(AbstractTestNGCucumberTests.java:21)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
-at java.base/jdk.internal.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
-at java.base/jdk.internal.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
-at java.base/java.lang.reflect.Method.invoke(Method.java:566)
-at org.testng.internal.MethodInvocationHelper.invokeMethod(MethodInvocationHelper.java:124)
-at org.testng.internal.Invoker.invokeMethod(Invoker.java:583)
-at org.testng.internal.Invoker.invokeTestMethod(Invoker.java:719)
-at org.testng.internal.Invoker.invokeTestMethods(Invoker.java:989)
-at org.testng.internal.TestMethodWorker.invokeTestMethods(TestMethodWorker.java:125)
-at org.testng.internal.TestMethodWorker.run(TestMethodWorker.java:109)
-at org.testng.TestRunner.privateRun(TestRunner.java:648)
-at org.testng.TestRunner.run(TestRunner.java:505)
-at org.testng.SuiteRunner.runTest(SuiteRunner.java:455)
-at org.testng.SuiteRunner.runSequentially(SuiteRunner.java:450)
-at org.testng.SuiteRunner.privateRun(SuiteRunner.java:415)
-at org.testng.SuiteRunner.run(SuiteRunner.java:364)
-at org.testng.SuiteRunnerWorker.runSuite(SuiteRunnerWorker.java:52)
-at org.testng.SuiteRunnerWorker.run(SuiteRunnerWorker.java:84)
-at org.testng.TestNG.runSuitesSequentially(TestNG.java:1208)
-at org.testng.TestNG.runSuitesLocally(TestNG.java:1137)
-at org.testng.TestNG.runSuites(TestNG.java:1049)
-at org.testng.TestNG.run(TestNG.java:1017)
-at org.testng.remote.AbstractRemoteTestNG.run(AbstractRemoteTestNG.java:115)
-at org.testng.remote.RemoteTestNG.initAndRun(RemoteTestNG.java:251)
-at org.testng.remote.RemoteTestNG.main(RemoteTestNG.java:77)
-]]>
-            </full-stacktrace>
-          </exception> <!-- cucumber.runtime.CucumberException -->
           <reporter-output>
           </reporter-output>
         </test-method> <!-- feature -->
-        <test-method is-config="true" signature="endTest()[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T10:46:33Z" name="endTest" finished-at="2022-11-12T10:46:33Z" duration-ms="0" status="PASS">
-          <reporter-output>
-          </reporter-output>
-        </test-method> <!-- endTest -->
-        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T10:46:33Z" name="atestCaseResult" finished-at="2022-11-12T10:46:33Z" duration-ms="0" status="PASS">
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:04:47Z" name="atestCaseResult" finished-at="2022-11-12T12:04:47Z" duration-ms="0" status="PASS">
           <params>
             <param index="0">
               <value>
-                <![CDATA[[TestResult name=feature status=FAILURE method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.RunnerClass@2c22a348] output={null}]]]>
+                <![CDATA[[TestResult name=feature status=SUCCESS method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.RunnerClass@2c22a348] output={null}]]]>
               </value>
             </param>
           </params>
           <reporter-output>
           </reporter-output>
         </test-method> <!-- atestCaseResult -->
-        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T10:46:33Z" name="tearDownClass" finished-at="2022-11-12T10:46:33Z" duration-ms="5" status="PASS">
+        <test-method is-config="true" signature="startTest(java.lang.reflect.Method)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:04:47Z" name="startTest" finished-at="2022-11-12T12:04:47Z" duration-ms="0" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[public void cucumber.api.testng.AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- startTest -->
+        <test-method signature="feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:04:47Z" name="feature" description="Runs Cucumber Feature" data-provider="features" finished-at="2022-11-12T12:05:06Z" duration-ms="19544" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[To test the features of the text button present in the app]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- feature -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:04:47Z" name="endTest" finished-at="2022-11-12T12:04:47Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="atestCaseResult(org.testng.ITestResult)[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:05:06Z" name="atestCaseResult" finished-at="2022-11-12T12:05:06Z" duration-ms="1" status="PASS">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[[TestResult name=feature status=SUCCESS method=AbstractTestNGCucumberTests.feature(cucumber.api.testng.CucumberFeatureWrapper)[pri:0, instance:Runner.RunnerClass@2c22a348] output={null}]]]>
+              </value>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- atestCaseResult -->
+        <test-method is-config="true" signature="endTest()[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:05:06Z" name="endTest" finished-at="2022-11-12T12:05:06Z" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- endTest -->
+        <test-method is-config="true" signature="tearDownClass()[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:05:06Z" name="tearDownClass" finished-at="2022-11-12T12:05:06Z" duration-ms="2" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- tearDownClass -->
-        <test-method is-config="true" signature="Teardown()[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T10:46:33Z" name="Teardown" finished-at="2022-11-12T10:46:33Z" duration-ms="556" status="PASS">
+        <test-method is-config="true" signature="Teardown()[pri:0, instance:Runner.RunnerClass@2c22a348]" started-at="2022-11-12T12:05:06Z" name="Teardown" finished-at="2022-11-12T12:05:06Z" duration-ms="318" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- Teardown -->

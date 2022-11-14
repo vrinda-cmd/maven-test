@@ -19,7 +19,6 @@ public class Capabilities extends TestBase{
 	static String appActivity=prop.getProperty("appActivity");
 	static String app=prop.getProperty("app");
 	static String d_name=prop.getProperty("deviceName");
-	static String isHeadless=prop.getProperty("isHeadless");
 	public static void setCapabilties() {
 		capabilities.setCapability("platformVersion", Version);
 		capabilities.setCapability("platformName", p_name);
@@ -27,7 +26,7 @@ public class Capabilities extends TestBase{
 		capabilities.setCapability("appActivity", appActivity);
 		capabilities.setCapability("app", app);
 		capabilities.setCapability("deviceName", d_name);
-		capabilities.setCapability("isHeadless",isHeadless);
+		capabilities.setCapability("isHeadless",true);
 	}
 	public void getAndroidDriver() throws MalformedURLException
 	{

@@ -14,9 +14,10 @@ Files connections-
 Animation.feature has step definition Animation.java and Screens are hide_showAnimationScreen, ViewFlipScreen
 App.feature has step definition App.java and Screens are  display_options, SearchScreen
 Media.feature has step definition Media.java and Screens are MediaPlayerScreen, MediaProjectionScreen
+Text.feature has step definition text.java and Screen is LogTextBoxScreen
 
 To run this code: we have to run the RunnerClass.java file or run with testNg.xml
 
-ExtentReports will be generated once we run the project and if there will be any error or failure then it will store the screenshot in the project folder.
+ExtentReports will be generated once we run the project and if there will be any error or failure then it will store the screenshot in the Screenshots folder.
 
 By- Vrinda Sharma
